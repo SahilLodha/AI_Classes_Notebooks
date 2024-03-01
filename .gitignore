@@ -1,6 +1,6 @@
-./env
+./env/
 **/.idea
 **/.ipynb_checkpoints
 **/__pycache__/
-./figures
-./file_io
+./figures/
+./file_io/
