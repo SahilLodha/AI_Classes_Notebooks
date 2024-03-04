@@ -9,8 +9,10 @@ pandas = "*"
 seaborn = "*"
 numpy = "*"
 scikit-learn = "*"
+statsmodels = "*"
 
 [dev-packages]
+jupyter = "*"
 
 [requires]
 python_version = "3.11"
